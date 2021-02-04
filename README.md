@@ -1,2 +1,2 @@
-# redpackage
-动画
+# red package 
+红包动画
